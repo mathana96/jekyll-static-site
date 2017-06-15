@@ -1,5 +1,5 @@
 # Personal Homepage Using Jekyll hosted using GitHub Pages
-View it live [here](mathana96.github.i)
+View it live [here](mathana96.github.io)
 
 # Using Jekyll to generate a static site
 
