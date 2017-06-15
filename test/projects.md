@@ -42,11 +42,12 @@ for current updates.
 
 * [**JavaScript**](https://github.com/mathana96/javascript)
   * Learning by following various tutorials, books and code examples.
-  * Currently working on a Node web-app following this [**tutorial**](https://wit-ictskills-2016.github.io/enterprise-web-dev/)
+  * Currently learning Node
 
-* [**Data Science using Python**](https://github.com/mathana96/python)
+* [**Python**](https://github.com/mathana96/python)
   * Python for Data Science on DataCamp
   * Build a web app using Flask
+  * Build a URL shortener 
 
 * **Mobile App Development**
   * Build a simple Android app
