@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Tab
+title: Projects
 permalink: /test/
 ---
 
