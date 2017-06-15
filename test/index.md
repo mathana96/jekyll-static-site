@@ -7,12 +7,12 @@ layout: page
 
 ![Picture](/images/my-photo.jpg)
 
-Hi! My name is Mathana Nair Sreedaran.
+**Hi! My name is Mathana Nair Sreedaran.**
 
-Welcome to my page!
+**Welcome to my page!**
 
 I am a Second Year Applied Computing student at Waterford Institute of Technology specialising in Cloud Computing with interests in the Internet of Things, Big Data, AR/VR and Fintech.
 
-I am also particularly interested in the tech and start-up scene in Waterford.
+I am also particularly interested in the tech and start-up scene in Waterford. I actively volunteer with [121Digital](http://www.121digital.ie/) and am a mentor at [Coderdojo Waterford](https://coderdojo.com/)
 
-I actively volunteer with 121Digital and am a mentor at Coderdojo Waterford.
+**Currently looking for work placement for the January 2018 semester :)**
