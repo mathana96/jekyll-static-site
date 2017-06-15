@@ -1,3 +1,6 @@
+# Personal Homepage Using Jekyll hosted using GitHub Pages
+View it live [here](mathana96.github.i)
+
 # Using Jekyll to generate a static site
 
 A learning attempt with `Jekyll` using this [tutorial](https://opensource.com/article/17/4/getting-started-jekyll?sc_cid=70160000001273HAAQ)
